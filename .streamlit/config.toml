@@ -1,0 +1,14 @@
+[theme]
+# Neon Cyan for active elements
+primaryColor = "#00f2fe"
+
+# Pure black/dark grey background
+backgroundColor = "#0b0c10"
+
+# Slightly lighter grey for the sidebar
+secondaryBackgroundColor = "#1f2833"
+
+# Crisp white text
+textColor = "#ffffff"
+
+font = "sans serif"
